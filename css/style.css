@@ -1,8 +1,22 @@
 h1{
-  color: red;
+  color: green;
   text-align: center;
-};
-
+  text-decoration: underline;
+}
+img{
+  align: center;
+}
+body{
+  background i
+}
 p {
-  color:red;
-};
+  text-align: center;
+  background-color: normal;
+  line-height: 1.4;
+  magin left: : 50px;
+  magin right: : 50px;
+  color:black;
+}
+table{
+  text-align: center;
+}
