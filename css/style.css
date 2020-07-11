@@ -11,12 +11,14 @@ body{
 }
 p {
   text-align: center;
-  background-color: normal;
   line-height: 1.4;
   magin left: : 50px;
   magin right: : 50px;
   color:black;
 }
 table{
+  text-align: center;
+}
+h2{
   text-align: center;
 }
