@@ -8,7 +8,7 @@ img{
 
 }
 body{
-  background i
+  background-image: url(code.jepg;);
 }
 p {
   text-align: center;
@@ -30,6 +30,7 @@ h4{
   text-align: center;
 }
 .section{
-  background-color: green
-  color:white
+  background-image:url(code.jepg;)
+  background-color: red;
+
 }
